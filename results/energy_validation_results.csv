@@ -1,0 +1,16 @@
+Gamma,Scenario,Avg_Joules_Saved
+1.0,Exponential Decay,67.34422499999998
+1.0,Weibull Process,118.05665000000002
+1.0,Oscillatory Drift,73.05329999999996
+1.3,Exponential Decay,61.39253967255303
+1.3,Weibull Process,90.68771594053875
+1.3,Oscillatory Drift,56.68638584639209
+1.5,Exponential Decay,53.85957445998408
+1.5,Weibull Process,76.84056490819613
+1.5,Oscillatory Drift,47.56648010564534
+1.8,Exponential Decay,44.69441582820084
+1.8,Weibull Process,60.990944016738545
+1.8,Oscillatory Drift,39.05371737124979
+2.0,Exponential Decay,40.350471021666664
+2.0,Weibull Process,53.19800391583327
+2.0,Oscillatory Drift,34.590057950833305

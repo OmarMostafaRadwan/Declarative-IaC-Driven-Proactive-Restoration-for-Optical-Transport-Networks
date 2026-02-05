@@ -1,0 +1,4 @@
+Baseline,RF MAE,Baseline MAE,Improvement,p-value,Significant
+Simple Threshold,18.77s,22.55s,16.8%,0.0005,YES
+Linear Extrapolation,18.77s,88.41s,78.8%,0.0000,YES
+Moving Average,18.77s,183.01s,89.7%,0.0000,YES

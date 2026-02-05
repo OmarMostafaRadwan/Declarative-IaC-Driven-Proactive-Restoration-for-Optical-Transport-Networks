@@ -1,0 +1,31 @@
+Scenario,Has_Failure,Actual_Fail_Time,Detection_Time,Lead_Time,Result
+Standard OU Drift (Run 1),True,885,826.0,59.0,Success
+Standard OU Drift (Run 2),True,880,836.0,44.0,Success
+Standard OU Drift (Run 3),True,879,829.0,50.0,Success
+Standard OU Drift (Run 4),True,878,835.0,43.0,Success
+Standard OU Drift (Run 5),True,880,840.0,40.0,Success
+Fast Exponential Decay (Run 1),True,711,638.0,73.0,Success
+Fast Exponential Decay (Run 2),True,710,630.0,80.0,Success
+Fast Exponential Decay (Run 3),True,715,628.0,87.0,Success
+Fast Exponential Decay (Run 4),True,709,622.0,87.0,Success
+Fast Exponential Decay (Run 5),True,707,636.0,71.0,Success
+Weibull Acceleration (Run 1),True,742,709.0,33.0,Success
+Weibull Acceleration (Run 2),True,742,706.0,36.0,Success
+Weibull Acceleration (Run 3),True,740,707.0,33.0,Success
+Weibull Acceleration (Run 4),True,741,707.0,34.0,Success
+Weibull Acceleration (Run 5),True,741,705.0,36.0,Success
+Catastrophic Step (Run 1),True,500,503.0,-3.0,Late Detection
+Catastrophic Step (Run 2),True,500,503.0,-3.0,Late Detection
+Catastrophic Step (Run 3),True,500,503.0,-3.0,Late Detection
+Catastrophic Step (Run 4),True,500,503.0,-3.0,Late Detection
+Catastrophic Step (Run 5),True,500,503.0,-3.0,Late Detection
+Oscillatory Instability (Run 1),True,854,816.0,38.0,Success
+Oscillatory Instability (Run 2),True,872,815.0,57.0,Success
+Oscillatory Instability (Run 3),True,872,816.0,56.0,Success
+Oscillatory Instability (Run 4),True,871,816.0,55.0,Success
+Oscillatory Instability (Run 5),True,872,815.0,57.0,Success
+Normal Operation (Run 1),True,882,838.0,44.0,Success
+Normal Operation (Run 2),True,877,832.0,45.0,Success
+Normal Operation (Run 3),True,875,836.0,39.0,Success
+Normal Operation (Run 4),True,882,833.0,49.0,Success
+Normal Operation (Run 5),True,882,833.0,49.0,Success

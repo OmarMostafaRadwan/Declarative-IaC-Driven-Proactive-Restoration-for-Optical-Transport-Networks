@@ -1,0 +1,6 @@
+Train,Test_ou_failure,Test_exp_failure,Test_weibull_failure,Test_step_failure,Test_osc_failure
+ou_failure,0.18s,9.96s,16.94s,47.07s,4.76s
+exp_failure,10.05s,0.25s,22.61s,47.31s,12.42s
+weibull_failure,31.82s,29.21s,0.18s,46.72s,31.68s
+step_failure,46.82s,51.99s,48.44s,38.45s,44.80s
+osc_failure,2.05s,11.84s,16.18s,46.93s,1.30s
