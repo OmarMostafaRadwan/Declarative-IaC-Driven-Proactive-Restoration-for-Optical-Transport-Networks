@@ -1,0 +1,25 @@
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+joblib>=1.2.0
+
+# Scientific Computing
+scipy>=1.9.0
+
+# Visualization
+matplotlib>=3.6.0
+
+# Explainable AI
+shap>=0.41.0
+
+# HTTP Requests
+requests>=2.28.0
+
+# Prometheus Metrics (for optical_exporter.py)
+prometheus-client>=0.16.0
+
+# Network Emulation (for optical_network.py)
+mininet>=2.3.0
