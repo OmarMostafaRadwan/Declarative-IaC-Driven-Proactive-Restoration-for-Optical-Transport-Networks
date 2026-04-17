@@ -1,0 +1,7 @@
+
+INTERPRETATION FOR THE PAPER:
+- Mean end-to-end latency: 6743 ms (6.74 s)
+- Dominant cost: Kubernetes reconciliation (3092 ms) + Terraform apply (1524 ms)
+- ML-pipeline cost is negligible (<25.2 ms)
+- Persistence filter is a deliberate 2-second safety delay, configurable via --polling_interval_ms
+- With 34-87 s lead time on gradual failures, the pipeline has ample margin
