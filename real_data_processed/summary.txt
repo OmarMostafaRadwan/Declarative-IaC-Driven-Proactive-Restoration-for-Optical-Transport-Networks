@@ -1,0 +1,72 @@
+========================================================================
+MENDELEY DATASET CHARACTERIZATION SUMMARY
+Ghosh & Adhya (2025), DOI 10.17632/y3pspy7j83.1
+========================================================================
+
+--- TEST SET ---
+Total trajectories: 3024
+Samples per trajectory: 300
+Total samples: 907,200
+
+Trajectories per failure class:
+  No failure   : 756
+  ECL failure  : 756
+  EDFA failure : 756
+  NLI failure  : 756
+
+Trajectories that reach 15 dB (hard-failure) threshold:
+  No failure   :    4 /  756  (  0.5%)
+  ECL failure  :    4 /  756  (  0.5%)
+  EDFA failure :   17 /  756  (  2.2%)
+  NLI failure  :  199 /  756  ( 26.3%)
+
+Trajectories that reach 18 dB (soft-alarm) threshold:
+  No failure   :  254 /  756  ( 33.6%)
+  ECL failure  :  254 /  756  ( 33.6%)
+  EDFA failure :  306 /  756  ( 40.5%)
+  NLI failure  :  530 /  756  ( 70.1%)
+
+OSNR statistics by failure class:
+Class        start_mean   end_mean   min_mean  degrad_mean
+No failure        19.38      19.38      19.37         0.00
+ECL failure       19.38      19.38      19.37         0.00
+EDFA failure      19.25      19.06      19.01         0.20
+NLI failure       17.85      17.02      16.83         0.84
+
+LP length distribution (unique values):
+  min=218  max=5051  n_unique=360
+
+
+--- TRAIN SET ---
+Total trajectories: 3024
+Samples per trajectory: 900
+Total samples: 2,721,600
+
+Trajectories per failure class:
+  No failure   : 756
+  ECL failure  : 756
+  EDFA failure : 756
+  NLI failure  : 756
+
+Trajectories that reach 15 dB (hard-failure) threshold:
+  No failure   :    4 /  756  (  0.5%)
+  ECL failure  :    4 /  756  (  0.5%)
+  EDFA failure :  395 /  756  ( 52.2%)
+  NLI failure  :  617 /  756  ( 81.6%)
+
+Trajectories that reach 18 dB (soft-alarm) threshold:
+  No failure   :  254 /  756  ( 33.6%)
+  ECL failure  :  254 /  756  ( 33.6%)
+  EDFA failure :  629 /  756  ( 83.2%)
+  NLI failure  :  722 /  756  ( 95.5%)
+
+OSNR statistics by failure class:
+Class        start_mean   end_mean   min_mean  degrad_mean
+No failure        19.38      19.38      19.37         0.00
+ECL failure       19.38      19.38      19.37         0.00
+EDFA failure      19.34      15.36      15.18         3.98
+NLI failure       17.82      12.73      12.59         5.09
+
+LP length distribution (unique values):
+  min=218  max=5051  n_unique=360
+
