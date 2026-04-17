@@ -1,0 +1,17 @@
+[
+  "SNR_dB",
+  "SNR_Lag_1",
+  "SNR_Lag_2",
+  "SNR_Lag_3",
+  "SNR_Lag_4",
+  "SNR_Lag_5",
+  "SNR_Lag_6",
+  "SNR_Lag_7",
+  "SNR_Lag_8",
+  "SNR_Lag_9",
+  "SNR_Lag_10",
+  "Velocity",
+  "Acceleration",
+  "Rolling_Std",
+  "Rolling_Mean"
+]

@@ -1,0 +1,36 @@
+========================================================================
+TRAJECTORY-BASED SPLIT REPORT
+========================================================================
+
+[TRAIN]
+  Trajectories: 1968
+    label=0: 492 trajectories
+    label=1: 492 trajectories
+    label=2: 492 trajectories
+    label=3: 492 trajectories
+  Samples (rows after feature extraction): 1,751,520
+  TTF target mean=663.38s  std=365.40s  min=0s  max=900s
+  TTF==cap (censored): 1185480 (67.7%)
+
+[VAL]
+  Trajectories: 452
+    label=0: 113 trajectories
+    label=1: 113 trajectories
+    label=2: 113 trajectories
+    label=3: 113 trajectories
+  Samples (rows after feature extraction): 402,280
+  TTF target mean=628.88s  std=380.55s  min=0s  max=900s
+  TTF==cap (censored): 255430 (63.5%)
+
+[TEST]
+  Trajectories: 604
+    label=0: 151 trajectories
+    label=1: 151 trajectories
+    label=2: 151 trajectories
+    label=3: 151 trajectories
+  Samples (rows after feature extraction): 537,560
+  TTF target mean=631.96s  std=378.87s  min=0s  max=900s
+  TTF==cap (censored): 342650 (63.7%)
+
+Trajectory overlap between splits: 0 (should be 0)
+========================================================================
